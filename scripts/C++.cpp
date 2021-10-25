@@ -6,4 +6,16 @@ github https://github.com/anshucollege*/
 int main()
 {
   cout<<" Hello World ";
+  cout<<"Ikshit Kate is a great guy";
+  cout<<"Ikshit Kate is a great guy";
+  
+  cout<<"Ikshit Kate is a great guy";
+  cout<<"Ikshit Kate is a great guy";
+  
+  cout<<"Ikshit Kate is a great guy";
+  cout<<"Ikshit Kate is a great guy";
+  cout<<"Ikshit Kate is a great guy";
+  cout<<"Ikshit Kate is a great guy";
+  cout<<"Ikshit Kate is a great guy";
+  
 }
