@@ -2,5 +2,8 @@
 #env Interactive as well as script
 #aut Anshu Musaddi
 #github https://github.com/anshucollege
-print "Hello World"
-print "Kevin was here to Say Hello World!"
+string s = input("Enter Text : ")
+if(s=="Hello"):
+  print "Hello World"
+else:
+  print "Kevin was here to Say Hello World!"
